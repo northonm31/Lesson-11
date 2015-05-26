@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2EB9A71F-BC69-4385-A511-819E4EF07DA3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ToDo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E9CE612652B2E9F080D8DBE8270C50D419EB1E99</key>
+		<string>https://github.com/ryan-blunden/ga-mobile.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ToDo - starter/ToDo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E9CE612652B2E9F080D8DBE8270C50D419EB1E99</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ryan-blunden/ga-mobile.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E9CE612652B2E9F080D8DBE8270C50D419EB1E99</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E9CE612652B2E9F080D8DBE8270C50D419EB1E99</string>
+			<key>IDESourceControlWCCName</key>
+			<string>*Resource%20files</string>
+		</dict>
+	</array>
+</dict>
+</plist>
